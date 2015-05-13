@@ -68,3 +68,6 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# 使用多说
+duoshuo_shortname: your-duoshuo-shortname

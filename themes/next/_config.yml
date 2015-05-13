@@ -1,6 +1,6 @@
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   archives: /archives
   tags: /tags
   #about: /about
@@ -35,7 +35,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
@@ -62,3 +62,5 @@ images: images
 
 # Theme version
 version: 0.4.0
+
+
