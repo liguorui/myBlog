@@ -1,6 +1,6 @@
 title: "leetCode[JS] - 前言"
 date: 2015-05-13 20:06:23
-tags: 'leetCode'
+tags: "leetCode"
 ---
 突然看到[leetcode](http://leetcode.com)也支持了js，决定把[leetcode](http://leetcode.com)刷一遍，同时记录一下对每道题的理解和进步。在今年年初发现了[codewars](http://www.codewars.com/users/liguorui)，抽上下班的空余时间刷了五百多道题，进入了全球前百的排名。当时主要为了快速通过获取积分，就没有太多的去优化代码和斟酌。看了一下[leetcode](http://leetcode.com)的题目，确实是比较经典和更具深究的，所以决定用js把它刷一遍。
 
